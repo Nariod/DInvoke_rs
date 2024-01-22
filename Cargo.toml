@@ -17,7 +17,7 @@ dmanager = { path = "dmanager" }
 static_vcruntime = "2.0"
 
 [dependencies.windows]
-version = "0.51"
+version = "0.52"
 features = [
     "Win32_Foundation"
 ]
